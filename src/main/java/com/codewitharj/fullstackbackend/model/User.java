@@ -1,5 +1,4 @@
 package com.codewitharj.fullstackbackend.model;
-package jakarta.*;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
